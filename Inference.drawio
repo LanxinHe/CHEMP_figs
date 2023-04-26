@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T03:05:07.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" version="21.1.7" etag="kP2bU_JQC8c41BWaqPEe" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T03:09:39.386Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="y1P5Irol1rjkrJOwMVv2" version="21.1.7" type="github">
   <diagram name="Page-1" id="NQaXieNRUr2K35PzJBa7">
-    <mxGraphModel>
+    <mxGraphModel dx="328" dy="195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-2" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Inference&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="305" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Exact Inference&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;approximate Inference&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-5" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;deterministic approximation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="305" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-6" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-7" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;stochastic approximation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-8" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;expectation propagation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="355" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;variational inference&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxZVlkd0XKwx1OAgyUY-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\min KL(q || p)$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
