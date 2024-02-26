@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T03:45:22.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="xXrma6IqIeBHcwWKUzq4" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T04:24:59.429Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="uZwQWdyOnYMTbOTBy4u_" version="23.1.6" type="github">
   <diagram name="Page-1" id="dU-dnFTunSyXHDUeYEFi">
-    <mxGraphModel dx="984" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="679" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,8 +28,8 @@
         <mxCell id="YuqXfMFWX_keywvnFie5-34" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Iterative Detector&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YuqXfMFWX_keywvnFie5-32" vertex="1">
           <mxGeometry x="8" y="-5" width="114" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YuqXfMFWX_keywvnFie5-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\mathrm{Iter}\left[ \cdot \right]$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YuqXfMFWX_keywvnFie5-32" vertex="1">
-          <mxGeometry x="31" y="27" width="60" height="30" as="geometry" />
+        <mxCell id="YuqXfMFWX_keywvnFie5-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\mathrm{Iter}\left[ \cdot \right]_{T_\mathrm{iter}}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YuqXfMFWX_keywvnFie5-32" vertex="1">
+          <mxGeometry x="35" y="27" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YuqXfMFWX_keywvnFie5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YuqXfMFWX_keywvnFie5-33" target="YuqXfMFWX_keywvnFie5-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -150,8 +150,8 @@
         <mxCell id="YuqXfMFWX_keywvnFie5-7" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Gradient-based &amp;nbsp;Iterative Detector&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YuqXfMFWX_keywvnFie5-15" vertex="1">
           <mxGeometry x="8" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YuqXfMFWX_keywvnFie5-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\mathrm{Iter}\left[ \cdot \right]$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YuqXfMFWX_keywvnFie5-15" vertex="1">
-          <mxGeometry x="31" y="36" width="60" height="30" as="geometry" />
+        <mxCell id="YuqXfMFWX_keywvnFie5-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\mathrm{Iter}\left[ \cdot \right]_{T_\mathrm{iter}}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YuqXfMFWX_keywvnFie5-15" vertex="1">
+          <mxGeometry x="36" y="34" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YuqXfMFWX_keywvnFie5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YuqXfMFWX_keywvnFie5-1" target="YuqXfMFWX_keywvnFie5-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
