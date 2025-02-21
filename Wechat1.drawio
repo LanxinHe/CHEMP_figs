@@ -142,6 +142,12 @@
         <mxCell id="PHSoznKrTX6SgeHKxCF0-53" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;第二阶段&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2015px%3B%26quot%3B%26gt%3B%26lt%3Bb%26gt%3BZF%20%E8%A7%A3%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfillColor%3Dnone%3BstrokeColor%3Dnone%3Brotation%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22380%22%20y%3D%22407.18%22%20width%3D%2273%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="73" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PHSoznKrTX6SgeHKxCF0-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PHSoznKrTX6SgeHKxCF0-55" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;ML 解&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="518.5" y="110" width="73" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
