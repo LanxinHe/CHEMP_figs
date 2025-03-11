@@ -119,6 +119,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_h_EXnYVfz8i2OCVFXAk-40" value="$$\bar{\sigma}_t \cdot \phi$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
